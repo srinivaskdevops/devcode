@@ -1,0 +1,5 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+Administ    7028    6200 pty0     07:30:44 /usr/bin/bash
+Administ    2444    7028 pty0     22:57:49 /usr/bin/ps
+Administ    6200       1 ?        07:30:43 /usr/bin/mintty
+Administ    2620       1 ?        09:13:01 /usr/bin/ssh-agent
